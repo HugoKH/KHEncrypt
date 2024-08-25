@@ -140,7 +140,7 @@ class GUI():
             self._decrypt_from_file_root.destroy()
             self._decrypt_from_file_root = None
 
-    def get_data_from_txt(self, path: str = r"C:\Users\hugts\Desktop\newpython\encrypter\tests\pimm.txt"):
+    def get_data_from_txt(self, path: str):
         """
         Returns tuple (str, hash) both as a list values are parallel like a dict
         """
