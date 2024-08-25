@@ -103,12 +103,14 @@ class GUI():
             label_hashes.grid(row=2, column=0, padx=10, pady=10) 
 
             self._option_hashes = tk.OptionMenu(dff, self._hash, *self._hashes)
+            self._option_hashes.config(width=20)
             self._option_hashes.grid(row=3, column=0, padx=10, pady=10)
 
             label_Strings = tk.Label(dff, text="Strings")
             label_Strings.grid(row=2, column=1, padx=10, pady=10) 
 
             self._option_str = tk.OptionMenu(dff, self._string, *self._strings)
+            self._option_str.config(width=10)
             self._option_str.grid(row=3, column=1, padx=10, pady=10)
 
             label_str_entry = tk.Label(dff, text="Input string")

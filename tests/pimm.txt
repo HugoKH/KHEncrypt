@@ -1,9 +1,3 @@
 
-encrypted_str = G^V
-hash = vp!B^*TFmY;G`´VH]lUhn°qb,tI1xKJC+L#Zwa[rs{5=$4fiA92"gkS>3X/&O_.7~?PQzWo c-dN}|y6)jE'8Me<Ru%D(§
-
-encrypted_str = y.]
-hash = 8n´`.Aqs%§byO ]4F+[=EB<YD/KlW3ZzVh>9^~5x#'")dJaLuC*(S12g|U$Qf&7eIRGXot°mi6;{_NMP-v?wH,rjc!T}kp
-
-encrypted_str = %!D
-hash = dJM7!{( hI§2lgD´f>uZ+.F=)j1n]q4tikC~Q%XS5y[^U"|a_&s$VWmA°-ecL#/,bTwPxo?r9p6`RKzN<8;B*'}YGOvEH3
+encrypted_str = uSD`*Qo§*X
+hash = §+m-XjLsSG9lDo`;3^*Yp1,R>)w/$u°6_!EF|Zcnh}"%?a#~zqB<O4d[VAUNx5{QriyI(Hf8TK&Wt0Ck=]vJ.M´7 geb2P'
