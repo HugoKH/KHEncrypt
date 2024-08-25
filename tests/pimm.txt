@@ -1,12 +1,29 @@
+encrypted_str = 'SVWa'
+hash = 2'5GVtM| FA/rJWzBxh]$ui#Y§P1!+c´Cb%QwSq^_T>7gpOD8~4"y?9&<*(-6[aNv°elREk}{dKXfIUm`=;j)3Z,Ho.nLs
 
-encrypted str: W>7°
-hash: ['W', '3', 't', 'F', 's', '?', 'N', '2', '°', 'g', 'R', '!', 'e', 'z', '1', 'n', 'a', '7', '-', 'Z', 'K', 'O', 'v', 'i', '>', 'M', '#', 'o', 'B', 'p', '^', 'x', 'c', '%', '4', 'w', "'", '+', '=', 'E', 'b', '(', 'h', '{', '`', 'X', '|', 'd', 'J', '[', '/', '"', 'q', '§', 'G', 'D', 'm', ',', 'j', '9', '$', '}', 'C', 'u', 'U', '8', 'L', 'Q', 'y', 'H', 'P', 'S', 'r', '*', 'V', 'f', '_', '<', 'A', '&', '6', '.', '´', 'Y', ';', 'I', 'l', ')', ' ', '~', '5', 'k', 'T', ']']
+encrypted_str = 's{A'
+hash = WoIQ{H</C$&cN%A8m}E*2yp3daFG´B;§h6^Tts(K"f74.PYV=U?|SwZ[]5X+DJ,)kO>n~-xvg°!r#ML_ejq9 bz1'uRli`
 
-encrypted str: C`~H`^aF
-hash: ['G', 't', 'E', 'V', '`', '2', ']', 'S', 'a', '<', ';', 'Q', '#', 'h', '~', 'u', '>', '^', 'F', 'e', '$', '-', 'q', ')', '1', 'z', '6', '!', 'm', '*', 'R', 'j', '(', 'y', '[', '°', '7', 'C', 'I', 'W', '|', 'O', '§', 'n', 'v', '_', '&', 'X', 'f', 'p', 'P', ' ', '9', 'B', ',', 'k', 's', '{', "'", 'w', 'K', 'L', 'H', '.', 'l', 'U', '"', 'Z', '+', 'c', 'D', '=', '?', 'b', 'A', 'r', '8', '5', '3', 'J', 'M', '4', '´', 'T', 'Y', 'x', 'o', '/', 'd', 'g', '%', '}', 'N', 'i']
+encrypted_str = 's{A'
+hash = WoIQ{H</C$&cN%A8m}E*2yp3daFG´B;§h6^Tts(K"f74.PYV=U?|SwZ[]5X+DJ,)kO>n~-xvg°!r#ML_ejq9 bz1'uRli`
 
-encrypted str = e(H{Pf33('
-hash = ['~', 'g', ' ', '|', '(', ',', 'B', 'A', 'f', '/', 's', "'", '3', 'Q', 'H', 'P', 'k', '5', 'G', 'q', ')', '4', '!', 'b', '*', '°', '.', 'I', 'V', '#', '9', '8', 'r', '=', 'D', '+', '[', 'e', '}', '>', 'Y', 'u', '^', 'L', 'M', '6', '"', '<', 'Z', 'a', 'U', '7', '&', 'd', 'X', '_', '2', '´', 'E', '-', 'm', 'h', '{', 'R', 'S', 'w', 'K', '%', 'o', ';', 'c', 'F', 'x', 'O', '1', 'p', 'T', '$', 'i', 'W', 'y', 'l', '`', 'n', '§', '?', 'N', 't', 'v', 'z', 'C', ']', 'J', 'j']
+encrypted_str = 's{A'
+hash = WoIQ{H</C$&cN%A8m}E*2yp3daFG´B;§h6^Tts(K"f74.PYV=U?|SwZ[]5X+DJ,)kO>n~-xvg°!r#ML_ejq9 bz1'uRli`
 
-encrypted str = ']^x]6HdB^G6dHv'
-hash = ['$', 'C', 'g', 'Q', '^', 'L', 'P', '`', '.', '}', 'F', "'", 'B', 'H', 'v', '{', 'p', 'G', 'x', ']', 'd', '"', 'r', '9', '>', '(', '?', '3', 'I', '8', 'k', 'z', 'E', 'n', 'D', '#', 'h', 'w', '1', 'l', 'U', '°', 'c', 'J', '&', 'a', '5', '/', 'q', 'O', 'j', 'R', 'A', 'X', 'W', 'u', 'y', 'Y', '[', 'm', ';', 'b', '6', '+', '2', 's', '|', '%', 't', 'T', 'V', 'K', '7', 'f', '´', 'e', 'i', 'o', 'N', '~', '<', '-', '!', 'Z', '_', ')', '§', ' ', ',', '=', 'S', 'M', '4', '*']
+encrypted_str = '_s°'
+hash = nLlrs|<WRm?_{Z°hqpija#§G JAtHk"X-Ve´c~QF*7bdPY(v]x5/2y.S^=wD8UK4;E>MOz3B&!+6$,o}`[')1gICT9Nuf%
+
+encrypted_str = '_s°'
+hash = nLlrs|<WRm?_{Z°hqpija#§G JAtHk"X-Ve´c~QF*7bdPY(v]x5/2y.S^=wD8UK4;E>MOz3B&!+6$,o}`[')1gICT9Nuf%
+
+encrypted_str = '`4Y'
+hash = LR.-4{ED°´#`t!YzdK5ouA+)_Cwn9Ia§VZ'vOG|x&j~$MrpU?T;b32Qg8B^]mcs,P}y"SF NW<7l%X=(/kqHhe>f*6J[i1
+
+encrypted_str = 'bYf'
+hash = -aCcY<$>7 Ab]&f§%d[J`zrjLRZi89NmTe|!PvSHM2QqnKsl5hxEu{.3,kV#=D^*4yGB°("/+?p}t_;'XF´1OUI~)W6wgo
+
+encrypted_str = '9DItV'
+hash = /1sz&7lYD{|(I,tfvMV°6_8BWKA]p9LU#´Cm~'$d+?}u§gebJyw F^raH%TOS-xZjXh!<*.i"kn[oQGRE2q4=c;N5>)P`3
+
+encrypted_str = 'c$uj+'
+hash = a1r53,.{$BZOu)js§F+4Sy'I[g7&kczdpYl;G2HP}"=n?D`]fCM~Qw!/<x6Tm-´J*R9K (_WA%°vqX8^NVE>eh#LboUti|

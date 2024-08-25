@@ -35,22 +35,23 @@ class Encoder:
         If txt not exsistant, one will be created.
         Dont edit this txt, for the gui version to function
         """
-        hash =  Encoder._create_hash(self)
+        self._dict = {}
+        hash = Encoder._create_hash(self)
         output: str = ""
-        output_hash: list = []#hash.values()
+        output_hash: str = ""
         
         for substr in input_str:
             output += (hash[substr])
             
         for key, value in hash.items():
-            output_hash.append(value)
+            output_hash += (value)
 
         if save_path != None:
             try:
                 with open(save_path, "a", encoding="utf-8") as datei:
                     datei.write(f"\nencrypted_str = '{output}'\nhash = {output_hash}\n")
             except OSError:
-                print(OSError.args)
+                print("No file path given")
 
         return output, output_hash
     
